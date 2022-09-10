@@ -7,7 +7,7 @@ A [docker-compose](https://docs.docker.com/compose/) sample to start `MySQL` dat
 1. Clone the project:
 
   ```shell
-    $ git clone https://github.com/gaoshanyu/mysql-docker-compose.git
+    $ git clone https://github.com/ToanP/dockers/tree/main/mysql-docker-compose
   ```
 
 2. Start `MySQL` via [docker-compose](https://docs.docker.com/compose/) in terminal:
