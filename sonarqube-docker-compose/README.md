@@ -15,11 +15,11 @@ A [docker-compose](https://docs.docker.com/compose/) sample to start `Sonar Qube
   ```
 
   ```shell
-  cd dockers
+    $ cd dockers
   ```
 
 ```shell
-  git sparse-checkout set sonarqube-docker-compose
+    $ git sparse-checkout set sonarqube-docker-compose
   ```
 2. Start `Sonar Qube` via [docker-compose](https://docs.docker.com/compose/) in terminal:
 
